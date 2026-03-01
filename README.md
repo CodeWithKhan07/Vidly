@@ -24,10 +24,10 @@ built-in playback engine, allowing you to enjoy your saved content directly with
 
 ### Core UI Flow
 
-|        Splash Screen         |      Home Analysis       |         Quality Selection         |
-|:----------------------------:|:------------------------:|:---------------------------------:|
-| ![Splash](readme/splash.png) | ![Home](readme/home.png) | ![Bottom Sheet](image_d905dd.png) |
-|       Initializing App       |      URL Extraction      |          Format Picking           |
+|        Splash Screen         |      Home Analysis       | 
+|:----------------------------:|:------------------------:
+| ![Splash](readme/splash.png) | ![Home](readme/home.png) |
+|       Initializing App       |      URL Extraction      | 
 
 ### Download & Playback
 
